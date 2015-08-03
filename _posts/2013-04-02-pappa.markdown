@@ -1,0 +1,15 @@
+---
+title: Pappa
+subtitle: Bland rostfritt stål och Radiosporten
+layout: default
+modal-id: 3
+date: 2013-04-02
+img: pappa.jpg
+thumbnail: pappa-thumbnail.jpg
+alt: Bland rostfritt stål och Radiosporten
+project-date: April 2013
+client: Privat
+category: Reportagefoto
+description: Pappa bodde mer eller mindre i garaget under min barndom. Det var där &mdash; bland maskiner, rostfritt stål och brädor &mdash; som han exempelvis svetsade stommen till mitt kära innebandymål. När någon sökte pappa per telefon fick jag i uppdrag av mamma att springa genom källargången och hämta honom. Med garagedörren på glänt fylldes näsan av en stickande doft från svetsen och öronen av ljudet från Radiosporten. Bilden på pappa i garaget visar honom i sin rätta miljö, påminner mig om vilken skicklig hantverkare han är och triggar mina minnen från en tid då det enda bekymret i livet var om jag skulle ha äppelmos eller jordgubbssylt på pannkakorna.
+
+---

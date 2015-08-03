@@ -1,0 +1,15 @@
+---
+title: Henka
+subtitle: Farsan tar över surfplattan
+layout: default
+modal-id: 8
+date: 2013-11-24
+img: henka.jpg
+thumbnail: henka-thumbnail.jpg
+alt: Henrik och Viktor chillar.
+project-date: Maj 2014
+client: Privat
+category: Reportagefoto
+description: Jag har känt Henrik sedan gymnasietiden och under alla år har han varit intresserad av bilar. Det kändes därför inte osannolikt att sonen Viktor skulle ta över stafettpinnen. Och mycket riktigt, äpplet föll inte långt från trädet. På bilden sitter far och son framför TV:n och kör monstertruckar på paddan. Egentligen är det Viktor som var intiativtagare men när koncententrationen istället riktades mot TV:n tog Henrik märklöst över spakarna. 
+
+---

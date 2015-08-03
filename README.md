@@ -1,7 +1,7 @@
-Agency Jekyll theme
+Stanna tiden
 ====================
 
-Agency theme based on [Agency bootstrap theme ](http://startbootstrap.com/templates/agency/)
+This theme is based on [Agency bootstrap theme ](http://startbootstrap.com/templates/agency/)
 
 # How to use
 

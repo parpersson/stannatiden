@@ -1,0 +1,15 @@
+---
+title: Självporträtt
+subtitle: Ett liv med Goretex
+layout: default
+modal-id: 9
+date: 2013-01-09
+img: par.jpg
+thumbnail: par-thumbnail.jpg
+alt: Ett liv med Goretex
+project-date: Januari 2013
+client: Privat
+category: Reportagefoto
+description: Detta självporträtt är från El Chaltén i södra Argentina, den del av landet som tillhör Patagonien. Under 3,5 månaders tid backpackade jag genom Sydamerika vilket var bland det bästa jag gjort. Jag gillar att utmana mig själv, att få hamna utanför min trygghetszon och att samla upplevelser. Att få vara ute i naturen med kameran i handen är en ynnest som jag dagdrömmer om när jag känner mig fjättrad på kontoret. Livet i Stockholm innehåller för lite Goretex. 
+
+---

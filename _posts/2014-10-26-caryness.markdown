@@ -1,0 +1,15 @@
+---
+title: Caryness
+subtitle: Stolthet över tegel
+layout: default
+modal-id: 4
+date: 2014-10-26
+img: caryness.jpg
+thumbnail: caryness-thumbnail.jpg
+alt: Stolthet över tegel
+project-date: Oktober 2014
+client: Privat
+category: Reportagefoto
+description: I närheten av byn Kakoma i Zambia bor Caryness. Om dagarna jobbar hon med att ta hand om den lodge som hjälporganisationen ZASP har byggt för sina folkhögskolestudenter. Genom jobbet har hon fått råd att bygga ett tegelhus åt sin familj, något som signalerar status i ett land där de flesta har enkla lerhyddor med grästak. Bilden visar en kvinna med rak rygg som sliter hårt för sin familj.
+
+---

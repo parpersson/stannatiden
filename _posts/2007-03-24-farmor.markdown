@@ -1,0 +1,15 @@
+---
+title: Farmor
+subtitle: Våffeldrottningen i Rokkmakkstugan
+layout: default
+modal-id: 6
+date: 2007-03-24
+img: farmor.jpg
+thumbnail: farmor-thumbnail.jpg
+alt: Våffeldrottningen i Rokkmakkstugan
+project-date: Mars 2007
+client: Privat
+category: Reportagefoto
+description: Farmor drev under många år en våffelservering i skidstugan Rokkmakk. Stugan ligger i Ängen, en värmländsk by ungefär sju mil från Karlstad. På vintrarna tog jag med mig pulkan och svettades uppför backen där jag och mina kusiner åkte ned otaliga gånger tills vi med hungriga magar gick in oset från våffeljärnen och åt tills vi storknade. På bilden syns fönsterspröjsen på Rokkmakk liksom farmors karaktäristiska haka. Hon satt ofta där hon sitter på bilden, vid fönstret närmast entrédörren, och läste små hälsningar som folk lämnat efter sig i gästboken.
+
+---

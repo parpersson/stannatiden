@@ -8,7 +8,7 @@ body {
     overflow-x: hidden;
     font-family: "Roboto Slab","Helvetica Neue",Helvetica,Arial,sans-serif;
     color: #{{ site.color.secondary-dark }};
-    background-color: #aa0000;
+    background-color: #ffffff;
 }
 
 .text-muted {
@@ -177,8 +177,9 @@ fieldset[disabled] .btn-xl.active {
 }
 
 .navbar-default .navbar-brand {
-    font-family: "Kaushan Script","Helvetica Neue",Helvetica,Arial,cursive;
+    font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,cursive;
     color: #{{ site.color.primary }};
+    text-transform: uppercase;
 }
 
 .navbar-default .navbar-brand:hover,
@@ -267,7 +268,7 @@ header {
     text-align: center;
     color: #fff;
     background-attachment: scroll;
-    background-image: url(../img/header-bg.jpg);
+    background-image: url(img/header5-bg.jpg);
     background-position: center center;
     background-repeat: none;
     -webkit-background-size: cover;
@@ -862,4 +863,12 @@ img::-moz-selection {
 
 body {
     webkit-tap-highlight-color: #{{ site.color.primary }};
+}
+
+.topmargin {
+    margin-top: 40px;
+}
+
+.extrapadding {
+    padding-bottom: 30px;
 }

@@ -1,0 +1,15 @@
+---
+title: Lillemor
+subtitle: Lägenheten med ett bibliotek
+layout: default
+modal-id: 2
+date: 2014-04-20
+img: lillemor.jpg
+thumbnail: lillemor-thumbnail.jpg
+alt: Lägenheten med ett bibliotek
+project-date: April 2014
+client: Privat
+category: Reportagefoto
+description: Lillemor älskar att läsa. I hennes lägenhet i Karlstad finns ett bibliotek vars hyllor fylls på allt eftersom hon avslutat en ny bok. Med åren har Lillemors syn försämrats vilket har gjort henne tveksam att ge sig ut på promenader i stan. Lyckligtvis är synen tillräckligt bra för att hon ska kunna fortsätta att läsa.
+
+---

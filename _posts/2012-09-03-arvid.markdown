@@ -1,0 +1,15 @@
+---
+title: Arvid
+subtitle: Ögonblick från legobänken
+layout: default
+modal-id: 1
+date: 2012-09-03
+img: arvid.jpg
+thumbnail: arvid-thumbnail.jpg
+alt: Ögonblick från legobänken
+project-date: September 2012
+client: Privat
+category: Reportagefoto
+description: Min systerson Arvid älskar att bygga lego. Nu är han så gammal att legovärldens svåraste nivå "Technic" inte längre är en utmaning. Jag antar att jag liknade Arvid som barn. Han, liksom jag, kan stänga ute omvärlden och koncentrera sig på något tills han känner sig klar. På bilden sitter Arvid vid legobänken där jag själv satt som ung. 
+
+---

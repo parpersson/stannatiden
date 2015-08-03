@@ -1,0 +1,15 @@
+---
+title: Mamma
+subtitle: Pianospelande bland leksaker
+layout: default
+modal-id: 7
+date: 2012-07-09
+img: mamma.jpg
+thumbnail: mamma-thumbnail.jpg
+alt: Pianospelande bland leksaker
+project-date: Maj 2014
+client: Privat
+category: Reportagefoto
+description: Mamma har en musikalisk ådra. I sitt yrke som dagmamma spelade hon låtar och sjöng för oss barn. Bilden är tagen i vår sommarstuga i Ängen där mamma sitter och spelar på mina syskonbarns lilla keyboard. På golvet ligger gosedjur och leksaker. Jag ärvde min mammas pianospelande och förädlade det under nio år i Musikskolan innan jag slutade lagom till gymnasiestarten. 
+
+---

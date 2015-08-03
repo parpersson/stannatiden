@@ -1,15 +1,15 @@
 <!-- Team Section -->
-    <section id="team" class="bg-light-gray">
+    <section id="team">
         <div class="container">
             <div class="row">
                 <div class="col-lg-12 text-center">
-                    <h2 class="section-heading">Our Amazing Team</h2>
-                    <h3 class="section-subheading text-muted">Lorem ipsum dolor sit amet consectetur.</h3>
+                    <h2 class="section-heading">Om fotografen</h2>
+                    <h3 class="section-subheading text-muted">Kort introduktion om mig själv.</h3>
                 </div>
             </div>
             <div class="row">
                 {% for member in site.people %}
-                <div class="col-sm-4">
+                <div class="col-md-4 col-md-offset-4">
                     <div class="team-member">
                         <img src="img/team/{{ member.pic }}.jpg" class="img-responsive img-circle" alt="">
                         <h4>{{ member.name }}</h4>
@@ -26,7 +26,8 @@
             </div>
             <div class="row">
                 <div class="col-lg-8 col-lg-offset-2 text-center">
-                    <p class="large text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde.</p>
+                    <p class="large text-muted">Jag har drivit eget företag som reklamfotograf, jobbat som pressfotograf, museifotograf och fotat åt universitetstidningar. Min första kamera köpte jag år 2003 och har sedan dess riktat in mig mot blixtbelysta porträtt.</p>
+                    <p class="large text-muted">Mer information om mig, inklusive arbetsprover och ett CV, finns på min hemsida. Där finns även en påbörjad kameraskola för nybörjarfotografen. Besök <a href="http://www.parpersson.se" target="_blanK">www.parpersson.se</a></p>
                 </div>
             </div>
         </div>
