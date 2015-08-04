@@ -870,7 +870,7 @@ body {
 }
 
 .extrapadding {
-    padding-bottom: 30px;
+    margin-bottom: 40px;
 }
 
 @media (max-width: 991px) {
