@@ -10,6 +10,6 @@ alt: På besök hos föräldrarna
 project-date: Februari 2012
 client: Privat
 category: Reportagefoto
-description: Min kusin Ida har ett stort hjärta och stora ambitioner. Efter studier i USA, England och Holland jobbar hon idag som jurist åt FN. Bilden är en mix av olika delar av hennes liv och är tagen då hon hälsade på föräldrarna i Karlstad. På väggen hänger en bild på vår farmor från året då farmor, iklädd folkdräkt, blev utsedd till Årets gräsmarking. Strax intill hänger ett motiv från platsen i Värmland där våra föräldrar växte upp. På sig har Ida en klänning från Gambia, landet där hon föddes.
+description: Min kusin Ida har ett stort hjärta och stora ambitioner. Efter studier i USA, England och Holland jobbar hon idag som jurist åt FN. Bilden är en mix av olika delar av hennes liv och är tagen då hon hälsade på föräldrarna i Karlstad. På väggen hänger en bild på vår farmor från året då farmor, iklädd folkdräkt, blev utsedd till Årets gräsmarking. Strax intill hänger ett motiv från platsen i Värmland där våra föräldrar växte upp. På sig har Ida en klänning från Gambia, landet där hennes mamma kommer ifrån och där Ida spenderade sin barndom.
 
 ---
