@@ -1,0 +1,15 @@
+---
+title: Hanna
+subtitle: Ljudet av grus
+layout: default
+modal-id: 20
+date: 2015-10-07
+img: hanna.jpg
+thumbnail: hanna-thumbnail.jpg
+alt: Ljudet av grus
+project-date: Oktober 2015
+client: Privat
+category: Reportagefoto
+description: Hanna älskar ljudet av grovt grus under joggingskorna. Ljudet betyder att hon har kommit tillbaka till garageuppfarten efter en kvällstur. Hon njuter av de där sekunderna när pulsen sjunker, flåset lägger sig och man är så där skönt nöjd över att ha kommit ut och orkat pressa sig.
+
+---

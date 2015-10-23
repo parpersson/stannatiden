@@ -1,0 +1,15 @@
+---
+title: Stellan
+subtitle: Vän med mjölksyran
+layout: default
+modal-id: 17
+date: 2015-09-20
+img: stellan.jpg
+thumbnail: stellan-thumbnail.jpg
+alt: Vän med mjölksyran
+project-date: September 2015
+client: Privat
+category: Reportagefoto
+description: Det är skymning på Ekerö där Stellan luftar sina rullskidor. Även om om han gillar att glida fram på asfaltvägarna så har skidorna samlat damm på sistone till förmån för löpträning. Nästa vecka är det nämligen Lindingöloppet. För Stellan är loppet den sista etappen på resan mot en Svensk klassiker. En Svensk klassiker består av Vasaloppet, Vansbrosimmet, Vätternrundan och Lidingöloppet. Hittills har det gått ganska tungt. Vasaloppet höll på att ställas in på grund av värmen men det hindrade inte Stellan och hans pannben att staka sig fram 9 mil i sorbetsnö. Vansbrosimmet gick OK medan Vättenrundan sög musten ur honom. Han fick flera gånger lägga sig på vägkanten och skaka mjölksyran ur benen. En del tränar för välmående, andra för tider. Stellan behöver tävlingsmomentet. Den smått monotona känslan från löpningen och rullskidåkningen bedövar han med en ursinnig jakt på resultat. Han tränar både löpning och rullskidor i en klubb för att kunna mäta krafterna mot andra och hitta inspiration till att ta i ytterligare. Inför Lidingöloppet är målet klart, han ska slå sin pappas totaltid, vilken är inom räckhåll. En svensk klassiker är unik i det avseendet, att man kan mäta tider både mot medtävlare och tidigare generationer. I huvudet ser Arvikasonen en 23-årig version av sin pappa framför sig i spåret och det vore väl själva fan om inte Stellan kunde springa förbi.
+
+---

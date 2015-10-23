@@ -1,0 +1,15 @@
+---
+title: Anton
+subtitle: Pluras parallelluniversum
+layout: default
+modal-id: 13
+date: 2015-08-17
+img: anton.jpg
+thumbnail: anton-thumbnail.jpg
+alt: Pluras parallelluniversum
+project-date: Augusti 2015
+client: Privat
+category: Reportagefoto
+description: För Anton är matlagning något som jag själv önskar att det vore, nämligen kul och socialt. Anton är lite av en matnörd, en sån där som prenumererar på Youtube-kanaler där gastronomer steg för steg tillagar avancerade rätter. Han studerar, han tränar, han serverar. Då många rusar ned till jourbutiken för att köpa snabbmakaroner har Anton tålmodigt stått och rört om i sin gryta sedan en timme tillbaka. Musik är ett annat av hans intressen. Gitarren tar han fram efter en tids ledighet, då måste-listan är avprickad. Jag tror att Anton önskar att livet var som Pluras kök, ett slags öppet hus där vänner i omgångar strömmar in och samlas kring en köksö där Anton ömsom spelar gitarr, ömsom hackar en lök och diskuterar livets egenheter.
+
+---

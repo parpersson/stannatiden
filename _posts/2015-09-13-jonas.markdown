@@ -1,0 +1,15 @@
+---
+title: Jonas
+subtitle: Dirigenten
+layout: default
+modal-id: 16
+date: 2015-09-13
+img: jonas.jpg
+thumbnail: jonas-thumbnail.jpg
+alt: Dirigenten
+project-date: September 2015
+client: Privat
+category: Reportagefoto
+description: Proceduren kring att bada är väl inövad vid det här laget. Medan vattnet fylls på bär Jonas fram snusdosorna, handdukarna, Bose-hörlurarna och badskummet. Han lägger den ena handduken på toalettstolen och den andra längs badkarets huvudända. Snuset hamnar tryggt inom en armlängds avstånd. Han lägger sig till rätta, vrider på reglaget som får bubbelbadets kompressor att dra igång, låter badankorna simma iväg, justerar hörlurarna och sätter på den aktiva brusreduceringen som får allt annat ljud än Londons symfoniorkester att försvinna. Ibland dirigerar han taktfast orkestern med pekfingret. Så här ligger han i 2-3 timmar åt gången, totalt upp mot 10 timmar i veckan.
+
+---

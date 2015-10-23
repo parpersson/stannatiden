@@ -1,0 +1,15 @@
+---
+title: Jacob
+subtitle: Spindelmannen
+layout: default
+modal-id: 18
+date: 2015-09-27
+img: jacob.jpg
+thumbnail: jacob-thumbnail.jpg
+alt: Spindelmannen
+project-date: September 2015
+client: Privat
+category: Reportagefoto
+description: Jacob är lite obekväm att fotograferas i miljön där han sedan fyra månader gillar att hänga. I närvaron av andra klättrare vill han inte att fotoblixtarna ska ge sken av att han är en expert. Han ser sig själv som en glad amatör som tycker det är kul och fullständigt tillräckligt att klättra röda banor på boulderväggen, något han gör två till tre gånger i veckan.
+
+---

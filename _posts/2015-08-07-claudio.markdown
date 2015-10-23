@@ -1,0 +1,16 @@
+---
+title: Claudio
+subtitle: Butterfly på Ängssjön
+layout: default
+modal-id: 11
+date: 2015-08-07
+img: claudio.jpg
+thumbnail: claudio-thumbnail.jpg
+alt: Butterfly på Ängssjön
+project-date: Augusti 2015
+client: Privat
+category: Reportagefoto
+description: Claudio är segelmakaren från Italien som hamnade i byn Västerrottna. Oddsen till trots har han lyckats hitta ett jobb där han får användning av sina färdigheter som segelmakare. Vid sidan av jobbet har han också startat ett eget företag som reparerar och nyproducerar segelkapell, vindskydd, smarta förvaringsväskor m.m. Vid några tillfällen har han försökt lära mig att segla. Jag är inte oduglig men för en italienare som började jobba på ett segelloft vid 13 års ålder måste det vara frustrerande att se mig febrilt rycka i rodret för att hitta en 45-gradig riktning mot vinden. Bilden ovan togs under vår senaste tur i Ängssjön. Vindarna är luriga där. De byter hela tiden riktning och växlar i styrka. När jag kände mig nöjd för dagen fick Claudio ta över kontrollen. Det var då, när han hissade sin hemmagjorda spinnaker, som ögonen började gnistra. Äntligen en utmaning! Efter en stunds justeringar av en uppsjö fiffigt knutna linor hade Claudio ställt upp seglen i formationen ”Butterfly” i vilken storseglet rätvinkligt pekar mot spinnakern.
+
+
+---

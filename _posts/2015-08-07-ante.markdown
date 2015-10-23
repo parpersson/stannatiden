@@ -1,0 +1,16 @@
+---
+title: Ante
+subtitle: Att tappa bort tiden i en bok
+layout: default
+modal-id: 10
+date: 2015-08-07
+img: ante.jpg
+thumbnail: ante-thumbnail.jpg
+alt: Tappa bort tiden i en bok
+project-date: Augusti 2015
+client: Privat
+category: Reportagefoto
+description: Solen smyger in under altantaket. Det är en varm sensommardag och Ante har hittat både tid och en bok att ta med sig till sin nya läshörna som består av en madrass ovanpå ett gäng staplade pallar. I tankarna har hon redan suttit i läshörnan många gånger men i sommar har kvällar som dessa varit lätträknade. Livet tycks komma emellan med dess långa arbetsdagar och många sysslor. Kanske är det sällsyntheten som gör Antes läsning till en guldkantad stund. När hon väl får smak på en bok har hon svårt att sluta innan den är klar. Men att tappa bort tiden i en inbunden berättelse, att stänga dess pärm och se att klockan passerat ett på natten, är verkligen fantastiskt.
+
+
+---

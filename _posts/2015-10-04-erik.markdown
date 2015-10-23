@@ -1,0 +1,16 @@
+---
+title: Erik
+subtitle: Strindberg under jord
+layout: default
+modal-id: 19
+date: 2015-10-04
+img: erik.jpg
+thumbnail: erik-thumbnail.jpg
+alt: Strindberg under jord
+project-date: Oktober 2015
+client: Privat
+category: Reportagefoto
+description: På bordet ligger en mikrofon, ett ljudkort och en trasig stämgaffel. Eriks vardagsrum går att förväxla med en musikaffär. Man kan också tro att det är en grönsaksdisk eftersom att han refererar till gitarrerna som gurkor. Men det är inga EU-gurkor stöpta i samma form; här ryms långa, korta, ljusa och mörka. Senaste tillskottet var en minigurka som han iklädd jeansväst bar med sig på semestern i Bali. Han är en kreatör utbildad till bergsingenjör. Det är ett slöseri med talang, ungefär som om Lionel Messi skulle börja jobba på ICA. På dagarna skriver Erik tekniska rapporter men på lediga stunder jobbar han med en generationsroman. Han fyller sidorna med oväntade ordval och underhållande observationer av vardagen samt kryddar sidorna med Kjell Höglund-vemod.
+
+
+---

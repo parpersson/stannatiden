@@ -1,0 +1,15 @@
+---
+title: Tommie
+subtitle: Svettigt flanerande
+layout: default
+modal-id: 14
+date: 2015-08-23
+img: tommie.jpg
+thumbnail: tommie-thumbnail.jpg
+alt: Svettigt flanerande
+project-date: Augusti 2015
+client: Privat
+category: Reportagefoto
+description: Tommie tycker om att springa. Bilden är tagen i Bredängsspåret som är en 3,2 kilometersslinga genom Sätraskogens naturreservat. Spåret ligger en kort uppvärmningsjogg hemifrån. Det händer också att Tommie utgår från lägenheten och springer i en viss riktning. Det blir ett sätt att utforska närområdet utan mål och utan tidtagning. Att springa planlöst med ständigt nya vägar ger inga jämförbara tider, inga rekord att slå. Likt fotboll eller orientering där bollen respektive kartan stjäl uppmärksamheten från löpningen, gör det svettiga flanerandet att löpturen inte känns så jobbig.
+
+---

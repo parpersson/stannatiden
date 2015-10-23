@@ -1,0 +1,15 @@
+---
+title: Houri
+subtitle: En långvarig och välvattnad relation
+layout: default
+modal-id: 15
+date: 2015-09-06
+img: houri.jpg
+thumbnail: houri-thumbnail.jpg
+alt: En långvarig och välvattnad relation
+project-date: September 2015
+client: Privat
+category: Reportagefoto
+description: Houri med familj flydde från Iran i slutet av 80-talet och hamnade så småningom i Kil där hon och maken startade ett kafé. Tavlan på väggen är från kaféet. Från den tiden har Houri också sina blommor som hon älskar att ta hand om. Blommorna får vatten två gånger i veckan berättar Houri och visar hur man bäst fördelar vattnet i de stora krukorna. Förra året, när hon besökte sin insjuknade make i Iran, fick växterna klara sig utan vatten i två veckor vilket höll på att ta kol på dem. Nu har de repat sig men saknar ännu några decimeter för att nå sin forna glans.
+
+---

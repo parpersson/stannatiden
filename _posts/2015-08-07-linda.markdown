@@ -1,0 +1,15 @@
+---
+title: Linda
+subtitle: Allers ersatt av nätrecept
+layout: default
+modal-id: 12
+date: 2015-08-07
+img: linda.jpg
+thumbnail: linda-thumbnail.jpg
+alt: Allers ersatt av nätrecept
+project-date: Augusti 2015
+client: Privat
+category: Reportagefoto
+description: Huset där Linda och hennes föräldrar bor tillhörde en gång hennes mormor. Idag är det mesta renoverat men vissa saker påminner om mormor Asta såsom bunken på bordet. Kring det här bordet brukar släkten samlas på påsk och jul för att hämta godsaker såsom gratänger, korv, potatis och såser. Tack vare Linda lever matlagningsglädjen kvar och frodas. Allers och Året runt har bytts ut som inspirationskällor mot modernare nätrecept, appar och bloggar. Linda slukar allt i sin väg, delvis inspirerad av de italienska smaker som hennes pappa bidrar med.
+
+---
