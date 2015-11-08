@@ -1,0 +1,15 @@
+---
+title: Erik
+subtitle: Promenad mot squash
+layout: default
+modal-id: 21
+date: 2015-10-24
+img: erikr.jpg
+thumbnail: erikr-thumbnail.jpg
+alt: Promenad mot squash
+project-date: Oktober 2015
+client: Privat
+category: Reportagefoto
+description: Erik stannar till längs vattnet som rinner genom Kungsportsplatsen. Detta är en av hans favoritdelar i den stad där han låter rötterna växa. Han går ofta förbi här. Ibland på väg till jobbet och ibland, som nu, på väg till squashträningen. Erik älskar att man kan ta sig överallt till fots i Göteborg, gärna i sällskap av en bra podcast. Squashen har hängt med några år nu. Han gillar den allsidiga träningen med dess höga puls och många start och stopp. Squash är en skön blandning av tennis och schack som utmanar både lår- och hjärnmuskler.
+
+---
