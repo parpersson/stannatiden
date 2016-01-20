@@ -262,13 +262,19 @@ fieldset[disabled] .btn-xl.active {
     .navbar-default.navbar-shrink .navbar-brand {
         font-size: 1.5em;
     }
+    .img.navbar-default.navbar-shrink {
+    width: 30px;
+    }
+    .img.navbar-brand {
+    width: 20px;
+    }
 }
 
 header {
     text-align: center;
     color: #fff;
     background-attachment: scroll;
-    background-image: url(img/header5-bg.jpg);
+    background-image: url(img/header4-bg.jpg);
     background-position: center center;
     background-repeat: none;
     -webkit-background-size: cover;
@@ -909,4 +915,17 @@ body {
     .collapsing {
         overflow: hidden!important;
     }
+}
+
+#logoimage {
+    opacity: 0.6;
+    margin-bottom: 20px;
+}
+
+.logonavbar {
+    width: 25px;
+    height: auto;
+    vertical-align: middle;
+    margin-right: 15px;
+    margin-top: -5px;
 }
