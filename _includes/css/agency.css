@@ -929,3 +929,8 @@ body {
     margin-right: 15px;
     margin-top: -5px;
 }
+@media (max-width: 500px) {
+#logoimage img {
+    width: 90px;
+}
+}

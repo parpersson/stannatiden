@@ -1,0 +1,15 @@
+---
+title: Mitra
+subtitle: Inredaren
+layout: default
+modal-id: 23
+date: 2016-01-25
+img: mitra.jpg
+thumbnail: mitra-thumbnail.jpg
+alt: Tandsköterskan som gillar inredning
+project-date: Januari 2016
+client: Privat
+category: Reportagefoto
+description: "För långt bort och för sent på kvällen", sammanfattar Mitra anledningarna till varför hon inte började läsa inredning. Valet föll istället på handelslinjen vilket betraktades som ett säkert kort i 70-talets Iran. Efter revolutionen flyttade Mitra och maken till Sverige där hon rekommenderades att läsa till tandsköterska. Hon följde rådet och jobbar idag inom Folktandvården. Intresset för inredning har dock alltid hängt med. Jag antar att det är hennes “tänk om”, dvs de där alternativa levnadsbanorna som vi alla funderar över ibland. Mitra gillar att bläddra i inspirerande magasin och fylla sitt hem med handplockade saker. Gladast är hon i sina änglar.
+
+---
