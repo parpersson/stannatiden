@@ -1,0 +1,15 @@
+---
+title: Ida
+subtitle: Från palmer till fåglar
+layout: default
+modal-id: 24
+date: 2016-02-10
+img: idaa.jpg
+thumbnail: idaa-thumbnail.jpg
+alt: Illustrerade fjäderdräkter
+project-date: Februari 2016
+client: Privat
+category: Reportagefoto
+description: Visst, som liten fick Ida pennor, sax, klister och uppmuntrande ord av sina föräldrar vilket resulterade i färgstarka skildringar av solindränkta landskap eller öde öar med stora palmer. Och visst, hon fortsatte att sy, virka, snickra och rita under åren som följde. Ändå var först för 1,5 år sedan som Ida upptäckte den verkliga skaparglädjen. Då gick hon en illustrationskurs som gav inspiration och introduktion till hantverket som hon numera förfinar under lediga stunder. Att teckna är att inte tänka; det är att låta sig svepas med och i slutänden se om den färdiga bilden blev ett resultatet av improvisation eller en fördefinierad idé. Ida tecknar med filtpennor och tusch, färglägger ofta i datorn men funderar på att börja med akvarell. Hon ritar gärna fåglar. Hennes stil karaktäriseras av detaljer så fåglarnas fjäderdräkt är tacksamma. Vi människor med våra skiftande uttryck är också vanliga motiv.
+
+---
