@@ -1,0 +1,15 @@
+---
+title: Tora
+subtitle: Fotbollsspel med historia
+layout: default
+modal-id: 25
+date: 2016-02-14
+img: tora.jpg
+thumbnail: tora-thumbnail.jpg
+alt: Fotbollsspel
+project-date: Februari 2016
+client: Privat
+category: Reportagefoto
+description: Tora och hennes make Diego brukade söka sig mot pubar med fotbollsspel när de bodde i Spanien. Toras 40-årspresent, ett bord med färgglada gubbar som penetrerats av greppvänliga pinnar, hade därför en historia som de båda delade. Några år senare föddes Mina och fotbollsspelet fick en allt mer undanskuffad placering i hemmet. För ett år sedan lyfte familjen fram spelet från förrådet, blåste av dammet och blåste samtidigt nytt liv i en hobby som slumrat alldeles för länge. Duon kring bordet är nu en trio som kör matcher åtminstone tre gånger i veckan.
+
+---
