@@ -1,0 +1,14 @@
+---
+title: Simon
+subtitle: Övningsskytte med garden uppe
+layout: default
+modal-id: 26
+date: 2016-02-14
+img: simon.jpg
+thumbnail: simon-thumbnail.jpg
+alt: Fotbollsspel
+project-date: Februari 2016
+client: Privat
+category: Reportagefoto
+description: Simon gillar att nöta teknik på Livgardets skjutbana. I sitt arbete som yrkesmilitär instruerar han andra men tiden är oftast knapp för egen träning. Därför samlas han, kollegorna och ett gäng icke ont anande pappfigurer i Livgardets skytteförening för att träna och umgås. Han väntar på sin tävlingslicens. Sen ska han hänga med de andra ut på tävlingar där de möter civila skyttar. Man kan tro att yrkesmilitärerna har en klar fördel men Simon berättar att civilisterna kan träna utan att behöva försvara sig mot kulor i motsatt riktning. Det är som skillnaden mellan boxning och boxercise, civilisterna behöver inte hålla garden. Skyttetävlingarna påminner annars om skidskytte. Utmaningen ligger i att kombinera fysisk ansträngning och precisionsskytte med hög puls. Simons nötande på skjutbanan är precist. Han tränar för att instinktivt reagera när något sker. Rörelserna är snabba och mekaniska. Han kör med anatomiska pricktavlor med utpekade dödliga zoner som han dekorerar med skotthål. Personer på Livgardets skjutbana vet vad det handlar om. Om avtryckaren ska användas så handlar det om att döda eller dödas. Pallar du inte den tanken så ska du göra något annat.
+---
