@@ -1,0 +1,14 @@
+---
+title: Fatima
+subtitle: Klackskor blev gummistövlar
+layout: default
+modal-id: 27
+date: 2016-04-10
+img: fatima.jpg
+thumbnail: fatima-thumbnail.jpg
+alt: Tur till skogen
+project-date: April 2016
+client: Privat
+category: Reportagefoto
+description: Innan hon fick Isolde och Livia var Fatima inte en person som gillade att gå till skogs, varken i ur eller skur. Idag har hon en mattermos. Tänka sig. Termosen fyller hon med korv, soppa eller vadhelst barnen äter. Hon kommer att minnas den här tiden, förmodligen som en milstolpe då hon bytte klackskor mot gummistövlar. Fatima gillar att förbereda en matsäck, packa ombyten och sittunderlägg för att sen ta ett barn i vardera handen mot rastplatsen. Där dukar hon upp maten i solen medan barnen springer av sig och jagar såpbubblor.
+---
