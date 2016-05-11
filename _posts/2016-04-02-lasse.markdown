@@ -1,0 +1,14 @@
+---
+title: Lasse
+subtitle: Kopplar in och kopplar av
+layout: default
+modal-id: 28
+date: 2016-04-02
+img: lasse.jpg
+thumbnail: lasse-thumbnail.jpg
+alt: Kopplar in och kopplar av
+project-date: April 2016
+client: Privat
+category: Reportagefoto
+description: Lasse kopplar in och kopplar av. När han ansluter gitarren i datorhörnan inne i sovrummet försvinner han för en stund. Där, i världen som sträcker sig mellan två hörlurskåpor, filar han på någon slinga eller spelar in idéer till nya låtar. Han har spelat i band sedan 1980. Störst spridning har förmodligen musiken med det spanska bandet Décima Víctima fått, vars låtar påminner om Joy Division. Nuförtiden, med fru, barn och villa, är livspusslet med individuellt gitarrspelande i sovrummet lättast att lägga. Lasse säger att han inte satsar längre, att han är nöjd att ha musiken på hobbynivå i form av sköna inpluggade stunder om kvällarna. Samtidigt läser jag mellan notraderna att det bor någon därinne som vill nå ut på bred front.
+---
