@@ -6,7 +6,7 @@ modal-id: 28
 date: 2016-06-27
 img: karljohan.jpg
 thumbnail: karljohan-thumbnail.jpg
-alt: Tur till skogen
+alt: Golf på Karlstad GK
 project-date: Juni 2016
 client: Privat
 category: Reportagefoto

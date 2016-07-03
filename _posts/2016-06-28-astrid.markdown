@@ -1,0 +1,14 @@
+---
+title: Astrid
+subtitle: Hole in one x2
+layout: default
+modal-id: 29
+date: 2016-06-27
+img: astrid.jpg
+thumbnail: astrid-thumbnail.jpg
+alt: Golf på Karlstad GK
+project-date: Juni 2016
+client: Privat
+category: Reportagefoto
+description: Astrid älskar att tillbringa tid på golfbanan. Hon spelar mest med sin make Karl-Johan. Tack vare handicapsystemet kan de mötas på samma villkor. Men även om maken har ett lägre handicap så är det Astrid som har slagit inte bara en utan två hole in ones på Karlstad GK, en bedrift som har ristats in på en plakett i klubbhuset. Ibland spelar paret med kompisar eller som en gång, med en räv som följde med dem fyra hål. Den lilla krabaten tog då bollen som låg helt öppet på fairway. Räven gjorde mindre charmigt om samma trick på en tävling. Sedan dess har ingen sett till räven.
+---
