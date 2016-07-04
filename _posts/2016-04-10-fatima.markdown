@@ -2,7 +2,7 @@
 title: Fatima
 subtitle: Klackskor blev gummistövlar
 layout: default
-modal-id: 27
+modal-id: 28
 date: 2016-04-10
 img: fatima.jpg
 thumbnail: fatima-thumbnail.jpg

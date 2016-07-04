@@ -2,7 +2,7 @@
 title: Simon
 subtitle: Övningsskytte med garden uppe
 layout: default
-modal-id: 26
+modal-id: 27
 date: 2016-04-03
 img: simon.jpg
 thumbnail: simon-thumbnail.jpg

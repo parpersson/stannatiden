@@ -2,7 +2,7 @@
 title: Hasse
 subtitle: Bara ut och röja lite
 layout: default
-modal-id: 30
+modal-id: 31
 date: 2016-06-27
 img: hasse.jpg
 thumbnail: hasse-thumbnail.jpg

@@ -2,7 +2,7 @@
 title: Karl-Johan
 subtitle: Proffset nu glad amatör
 layout: default
-modal-id: 28
+modal-id: 29
 date: 2016-06-27
 img: karljohan.jpg
 thumbnail: karljohan-thumbnail.jpg

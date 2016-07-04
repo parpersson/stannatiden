@@ -2,7 +2,7 @@
 title: Lasse
 subtitle: Kopplar in och kopplar av
 layout: default
-modal-id: 28
+modal-id: 26
 date: 2016-04-02
 img: lasse.jpg
 thumbnail: lasse-thumbnail.jpg
