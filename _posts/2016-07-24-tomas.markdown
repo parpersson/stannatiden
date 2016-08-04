@@ -1,0 +1,14 @@
+---
+title: Tomas
+subtitle: Môrslaren
+layout: default
+modal-id: 32
+date: 2016-07-24
+img: tomas.jpg
+thumbnail: tomas-thumbnail.jpg
+alt: På andra sidan huset
+project-date: Juli 2016
+client: Privat
+category: Reportagefoto
+description: Tomas gillar att môrsla som betyder att småfixa hemma. Han behöver inte åka till andra sidan jordklotet för att må bra utan det räcker oftast med andra sidan av huset. Där kan han exempelvis odla ett stycke sommaräng i slänten eller smycka ut timmerhuset med härspinnar. Just timmerhus och dekoration av desamma är ett intresse som Tomas ärvt av sin far. I trakterna kring uppväxtorten Värmskog köpte pappan flera timmerhus som han och sönerna plockade ner stock för stock och sedan reste hemma på gården. En stor samling timmerhus ser inte grannarna i Kil. Däremot ser de den gul-svarta Skanskatröjan som har hängt med i alla år. När getingen far runt i trädgården undrar alla vad för slags nytt projekt Tomas har görningen.
+---
