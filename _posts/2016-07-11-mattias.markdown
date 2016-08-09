@@ -1,0 +1,14 @@
+---
+title: Mattias
+subtitle: Recenserar öl
+layout: default
+modal-id: 33
+date: 2016-07-11
+img: mattias.jpg
+thumbnail: mattias-thumbnail.jpg
+alt: Inte bara en stor stark
+project-date: Juli 2016
+client: Privat
+category: Reportagefoto
+description: Mattias gillar öl, ja så mycket att han har en ölkällare, eget bryggeri och en Instagramblogg där han recenserar öl. Bloggen får mer och mer kärlek. Med omsorg häller han upp ölen och arrangerar olika stilleben, fotograferar, dricker, betygsätter och klär sedan smaken med ord. Från början hade bilderna karaktären av snapshots men de har på senare tid blivit allt mer genomtänkta, ibland till sambons förtret som tålmodigt måste vänta medan Mattias minutiöst ställer upp glas och flaska framför kameran. Bloggen följs av över 1000 personer. Många av dem som gör sin röst hörd i kommentarsfältet är konnässörer och potentiella dryckesbröder. Instagramkontot “Inte bara en stor stark”, har nu fått en egen hemsida med samma namn.
+---
