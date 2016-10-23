@@ -3,7 +3,7 @@ baseurl:
 
 # Site settings
 title: Stanna tiden - Porträttfoto i Stockholm
-email: brev@parpersson.se
+email: info@parenglund.se
 description: "Porträttfotografering av folk du tycker om."
 
 # Color settings (hex-codes without the leading hash-tag)
@@ -14,16 +14,16 @@ color:
 
 # Team names, titles and social links
 people:
-- name: Pär Persson
+- name: Pär Englund
   pic: 1
   position: Kreativ kommunikatör
   social:
     - title: linkedin
-      url: http://www.parpersson.se/linkedin
+      url: https://se.linkedin.com/in/parenglund
     - title: flickr
-      url: http://www.parpersson.se/flickr
+      url: https://www.flickr.com/photos/parenglund/
     - title: pinterest
-      url: http://www.parpersson.se/pinterest
+      url: https://www.pinterest.se/englundpar/
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
