@@ -1,0 +1,14 @@
+---
+title: Cattis
+subtitle: Mästerkocken
+layout: default
+modal-id: 33
+date: 2016-10-13
+img: cattis.jpg
+thumbnail: cattis-thumbnail.jpg
+alt: På andra sidan huset
+project-date: Oktober 2016
+client: Privat
+category: Reportagefoto
+description: Matlagning är Cattis passion sedan många år. Det började förmodligen då hon som åttaåring konkurrerade med sina två systrar om den ensamstående mammans uppmärksamhet. I köket, med ett varsitt förkläde, fick mor och dotter kvalitetstid tillsammans. Cattis älskar sitt kök – induktionsspisen med tre ugnsutrymmen, alla skåp och lådor, takfönstren med dess ljusinsläpp och köksön kring vilken vänner kan vänta med ett glas i handen medan Cattis gör färdigt maten. Även matsalsbordet några meter bort, precis bredvid vinkylen, inbjuder inbjudna att prata genom dofterna från spisen. Rummets främsta krydda är nog ändå Thermomixen som är navet i all Cattis matlagning. Hon har gått ett flertal matlagningskurser, varav en för yrkeskockar. Men även om hon vill utvecklas så har ambitionen aldrig varit att jobba i ett kök. Matlagningen är och förblir en passion. Nuförtiden lagar hon mat i sällskap av sonen Xavier. Det kanske är där, på mammas höft, som han i efterhand kommer att definiera som startskottet för sitt eget matintresse.
+---
