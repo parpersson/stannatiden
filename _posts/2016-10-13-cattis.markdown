@@ -6,7 +6,7 @@ modal-id: 34
 date: 2016-10-13
 img: cattis.jpg
 thumbnail: cattis-thumbnail.jpg
-alt: På andra sidan huset
+alt: Thermomixens bästa kompis
 project-date: Oktober 2016
 client: Privat
 category: Reportagefoto
