@@ -1,0 +1,14 @@
+---
+title: Jonas
+subtitle: Tallfotografen
+layout: default
+modal-id: 36
+date: 2016-12-31
+img: jonasseffel.jpg
+thumbnail: jonasseffel-thumbnail.jpg
+alt: Med kameran som anledning att komma ut i naturen
+project-date: December 2016
+client: Privat
+category: Reportagefoto
+description: Jonas älskar att fotografera. Även om det blir en del bilder på familjen så är det som landskapsfotograf han identifierar sig. Sedan 2004 har han försökt fånga naturen enligt konstens alla regler. För naturbilder ska se ut på ett visst sätt. En välkomponerad landskapsbild är ett pussel av gyllene snitt, C- och S-kurvor med mera som man ibland lyckas få att samspela i en och samma bild. <br><br>Med åren har naturbildens grammatik börjat kännas tråkig och förutsägbar, det blir "på med vidvinkelobjektivet, in med något skit i förgrunden och kör på.” För att komplettera och variera har han därför snöat in på att fota tallar. Och då är det inte de raka och ståtliga tallarna han gillar utan de knotiga och skeva. De skrangliga individerna har karaktär och växer längs kusten till Vänern där han gärna vistas. <br><br>Fotograferingen för Jonas handlar mycket om att just vara i naturen. Det skulle lika gärna kunna ha handlat om jakt eller något annat som gav honom en anledning att komma ut. Främst åker han till Segerstads skärgård och Bonäs udde. <br><br>Vad han saknar i kameraväskan, förutom de fotoprylar han motvilligt erkänner att han ständigt har ögonen öppna för, är en båt som kan föra honom iland på öar med potential till bra bilder.
+---
