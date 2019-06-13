@@ -2,7 +2,7 @@
 title: Elisabeth
 subtitle: Vandraren
 layout: default
-modal-id: 39
+modal-id: 37
 date: 2018-06-17
 img: elisabeth.jpg
 thumbnail: elisabeth-thumbnail.jpg

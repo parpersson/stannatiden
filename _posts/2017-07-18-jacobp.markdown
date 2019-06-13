@@ -1,0 +1,14 @@
+---
+title: Jacob
+subtitle: Daddy DJ
+layout: default
+modal-id: 39
+date: 2017-07-18
+img: jacobp.jpg
+thumbnail: jacobp-thumbnail.jpg
+alt: Spisar musik
+project-date: Juli 2017
+client: Privat
+category: Reportagefoto
+description: Jacobs passion är att tonsätta fester. Det kan vara en nyårsfest, ett bröllop eller en fotbollscup med jobbet. Innan gästerna har hunnit blanda sin första drink, har Jacob satt sig vid datorn och rullat igång sin cocktail av klassiker och klubbtechno. <br><br>Han är både en tillfrågad och självutnämnd DJ i kompisgänget. Som en av de första kidsen med en CD-brännare, laddade Jacob ner och brände blandskivor till kompisarna. Sen dess har han fortsatt att komponera musiksamlingar, även om det nuförtiden distribueras via Spotify. <br><br>En bra låtlista skapar rörelse i armar och ben. På Jacobs listor finns därför allt från klassiker till klubbtechno. En del låtar tycks alltid smyga sig in på Jacobs listor. This is the way med E-type är ett säkert kort som får både 25- och 45-åringar att röra på sig. Men en bra DJ är inget ego. Uppgiften är att få taket att lyfta, inte att lyfta upp sin egen musiksmak. <br><br>När Jacob var 18 och började springa på nattklubbar blev han sugen på att fylla dansgolv istället för vardagsrumsgolv. Han gjorde dock inget ärligt försök. Han sökte inga DJ-jobb och han lärde sig aldrig mixerprogrammet som han laddade hem. <br><br>Dominerande på Jacobs festlistor är samtida musik och eurodisco från 90-talet. Ibland, om stämningen i rummet är mogen för melodiösa experiment, eller om Jacob är tillräckligt berusad och förlorat omdömet, händer det att han slår på ett urval Ballermann-hits. De kan beskrivas som österrikisk after-ski, den typen av musik som spelas på Oktoberfest. <br><br> Nuförtiden blir det få spellistor i fåtöljen. Hemma spelas mest barnlåtar, typ “Drakdansen" och “Tingelingeling nu ska tåget gå”. I en del av livet när det saknas oceaner av egen tid blir därför stunderna när han får plugga in snäckorna extra harmoniska. Vågskvalp för själen.
+---
