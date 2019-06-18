@@ -1,0 +1,14 @@
+---
+title: Henrik
+subtitle: Fiskaren
+layout: default
+modal-id: 40
+date: 2018-10-14
+img: henrik.jpg
+thumbnail: henrik-thumbnail.jpg
+alt: Det hemliga intresset
+project-date: Oktober 2018
+client: Privat
+category: Reportagefoto
+description: Bilden av Henriks stora passion i livet är egentligen redan tagen. Det finns en gulnad framkallning av en 4-årig pojke med fiskeväskan i ena handen och pappa i den andra. Sen dess har han varit biten. Med åren har spänningsmomentet – den kittlande förhoppningen att det ska nappa –  utökats med den avkopplande tystnaden och den självterapeutiska tiden för sig själv. </br></br>Ur väskan med alla drag plockar han oftast fram jiggen vars framtunga konstruktion är tänkt för ett ömsom fallande, ömsom ryckande fiske, där man känner huggen direkt. Flugorna luftar han gärna också men det blir främst under särskilda fiskeresor, ungefär en gång per år.</br></br>Henrik beskriver sig själv som en bekväm fiskare. Han väljer fisketid på dygnet utifrån när han vill koppla av – inte när fisken hugger som mest. Ett lyckosamt isfiske i bister kyla byter han därför mot en vacker sommarkväll utan napp.</br></br>Även om det bästa fisket i närområdet är gäddfiske kring Ingemarsö brukar vardagsfisket bli från klipporna i Brunnsviken. Det händer även att Henrik, tillsammans med sin far, packar spöna i familjens båt för att dra ut på tur. Häromåret återbesökte de till exempel platsen där den där 4-åringen stod.
+---
