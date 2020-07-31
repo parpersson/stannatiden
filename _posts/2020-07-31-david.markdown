@@ -1,0 +1,14 @@
+---
+title: David
+subtitle: Lumberjack
+layout: default
+modal-id: 41
+date: 2020-07-21
+img: davidw.jpg
+thumbnail: davidw-thumbnail.jpg
+alt: 6:e generationens gårdsägare
+project-date: Juni 2020
+client: Privat
+category: Reportagefoto
+description: En bit in i skogen med utsikt över den erkänt vackra kyrkan i Gräsmark ligger Davids smultronställe. Gården har ägts av släkten sen den byggdes i mitten av 1800-talet. När David köpte den av sina föräldrar blev han den sjätte generationen som tog över. </br></br> Här har han spenderat många lov och veckoslut genom åren. Han uppskattar alla stora ytor där man som barn kan springa runt, fiska och åka fyrhjuling – en frihet som saknar motstycke i ett bostadsområde. Han gillar också avskildheten, utan trafik eller grannar. </br></br> När han tänker på gården ser han framför sig bad och avkoppling men framför allt jobb – jobb att slå åkrar och jobb att ta hand om skogen. Som liten var han med sin pappa i skogen, gallrade och satte plantor. Intresset för skogsbruk har vuxit i takt med träden. </br></br> Tanken är driva vidare gården som tidigare. David har tänkt mycket på balansen mellan att respektera det som tidigare generationer har gjort och att sätta sin egen prägel. Vad får man lov att göra med ett träd som har stått där sen urminnes tider eller byggnader som vittnar om en tid då gården var självförsörjande med djurhållning och odling? </br></br> Han skulle kunna tänka sig att skala upp, att köpa mer skog och börja odla, men det får nog bli i framtiden när lilla Linnea vuxit upp och det finns mer tid till hands. Davids äldsta barn, Linus, är redan gårdens dräng och klipper omsorgsfullt upp en väg ner till badplatsen med den åkbara gräsklipparen. Upplärningen av den sjunde generationen är påbörjad.
+---
